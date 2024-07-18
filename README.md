@@ -1,0 +1,2 @@
+# components
+ESPHome external components
